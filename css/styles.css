@@ -238,6 +238,7 @@ body {
   }
 
   .menu-responsive {
+    top: 0;
     display: block;
     position: fixed;    
     z-index: 999;
